@@ -18,7 +18,6 @@
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.0",
     "mysql2": "^3.2.4",
-    "nodemon": "^2.0.22",
     "parse": "^4.1.0",
     "react-router-dom": "^6.11.0",
     "sequelize": "^6.31.1",
